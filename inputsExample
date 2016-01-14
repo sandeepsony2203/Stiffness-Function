@@ -6,3 +6,7 @@ enter the number elements in which the system is being divided :50    (0 to L le
 Division b/w any two elements :1  (each single element is linearly divided )
 enter Start Point :0
 enter end point of your system :1
+
+enter initial and final boundary[ u_i ]  :0
+enter initial and final boundary[ u_i] :0
+enter Q :zeros(e+1,1)
