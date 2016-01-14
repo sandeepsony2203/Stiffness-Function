@@ -21,6 +21,7 @@ elseif order==2
 elseif order==3
         w(1)=5/9; w(2)=8/9; w(3)=5/9;
         W(1)=-sqrt(3/5);W(2)=0;W(3)=sqrt(3/5);
+         s=matlabFunction(c2*subs(Integ,x,c1+c2*t));
 end
 
         for i=1:order 
